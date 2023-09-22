@@ -18,7 +18,6 @@ pytest test_contract.py
 This command will execute the test_contract function defined in test_contract.py and check if the interactions between services conform to the specified contracts.
 
 ## Running Contract Tests with Behave
-behave  # Run all Behave feature files and scenarios
 ```bash
 behave  # Run all Behave feature files and scenarios
 ```
